@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Numerics\IntegerDistribution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Text\DelimitedStringExtensions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
