@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freyja", "Freyja\Freyja.csproj", "{6D4C4156-4376-44AF-AB2E-6E24030F10DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreyjaUnitTestProject", "FreyjaUnitTestProject\FreyjaUnitTestProject.csproj", "{92F4B2F5-46BB-4288-9AA2-315EA5D97802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6D4C4156-4376-44AF-AB2E-6E24030F10DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4C4156-4376-44AF-AB2E-6E24030F10DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4C4156-4376-44AF-AB2E-6E24030F10DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F4B2F5-46BB-4288-9AA2-315EA5D97802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F4B2F5-46BB-4288-9AA2-315EA5D97802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F4B2F5-46BB-4288-9AA2-315EA5D97802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F4B2F5-46BB-4288-9AA2-315EA5D97802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
